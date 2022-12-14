@@ -216,8 +216,8 @@
 			loop:true,
 			margin:30,
 			nav:true,
-			smartSpeed: 1000,
-			autoplay: 500,
+			smartSpeed: 1200,
+			autoplay: 750,
 			navText: [ '<span class="fas fa-algle-left"></span>', '<span class="fas fa-algle-left-right"></span>' ],
 			responsive:{
 				0:{
@@ -246,8 +246,8 @@
 			loop:true,
 			margin:30,
 			nav:true,
-			smartSpeed: 1000,
-			autoplay: 500,
+			smartSpeed: 1200,
+			autoplay: 750,
 			navText: [ '<span class="far fa-angle-left"></span>', '<span class="far fa-angle-right"></span>' ],
 			responsive:{
 				0:{
@@ -276,8 +276,8 @@
 			loop:true,
 			margin:30,
 			nav:true,
-			smartSpeed: 500,
-			autoplay: 5000,
+			smartSpeed: 750,
+			autoplay: 5500,
 			navText: [ '<span class="fas fa-angle-left"></span>', '<span class="fas fa-angle-right"></span>' ],
 			responsive:{
 				0:{
@@ -305,8 +305,8 @@
 			loop:true,
 			margin:30,
 			nav:true,
-			smartSpeed: 500,
-			autoplay: 5000,
+			smartSpeed: 600,
+			autoplay: 5500,
 			navText: [ '<span class="fas fa-angle-left"></span>', '<span class="fas fa-angle-right"></span>' ],
 			responsive:{
 				0:{
@@ -335,8 +335,8 @@
 			loop:true,
 			margin:30,
 			nav:false,
-			smartSpeed: 500,
-			autoplay: 1000,
+			smartSpeed: 600,
+			autoplay: 1200,
 			navText: [ '<span class="far fa-angle-left"></span>', '<span class="far fa-angle-right"></span>' ],
 			responsive:{
 				0:{
@@ -402,7 +402,7 @@
     		animateIn: 'fadeIn',
     		active: true,
 			smartSpeed: 1000,
-			autoplay: 6000,
+			autoplay: 5500,
             navText: [ '<span class="far fa-angle-left"></span>', '<span class="far fa-angle-right"></span>' ],
             responsive:{
                 0:{
